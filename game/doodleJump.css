@@ -1,0 +1,17 @@
+* {
+    padding: 0;
+}
+
+#canvas1 {
+    border: 5px solid black;
+    left: 50%;
+    top: 50%;
+}
+
+#player {
+    display: none;
+}
+
+#cloud {
+    display: none;
+}
